@@ -1,7 +1,7 @@
 # 🌟 My Resume - Ridho Akbar 🌟
 
 📌 **Check My Online Resume:**  
-<a href="https://resumeridhoakbar.vercel.app/" target="_blank">👉 Check My Online Resume</a>
+<a href="https://resumeridhoakbar.vercel.app/" target="_blank">👉 Resume_Ridho_Akbar</a>
 
 
 ---
